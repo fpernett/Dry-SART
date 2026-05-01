@@ -1,2 +1,2 @@
 # Dry-SART
-Matlab scripts used to analyze recorded data from Lifesense devica and SUB prototype
+Matlab scripts used to analyze recorded data from Lifesense device and SUB prototype
